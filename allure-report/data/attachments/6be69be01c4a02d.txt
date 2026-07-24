@@ -1,0 +1,2 @@
+[PASS]Profile menu button clicked successfully.
+[PASS]Logout button clicked successfully.

@@ -1,5 +1,3 @@
 [PASS]Email set successfully.
 [PASS]Password set successfully.
 [PASS]Login button clicked successfully.
-[PASS]Profile menu button clicked successfully.
-[PASS]Logout button clicked successfully.

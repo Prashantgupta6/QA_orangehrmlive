@@ -1,0 +1,1 @@
+{"061237dda6c6fb0c0e61cf0014c689ba":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"9872933711f4c3bf","reportUrl":"http://localhost:8080/job/playwrite_python_local/2/allure/#testresult/9872933711f4c3bf","status":"passed","time":{"start":1784706269637,"stop":1784706269658,"duration":21}}]}}

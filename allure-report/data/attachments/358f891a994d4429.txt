@@ -1,0 +1,3 @@
+[PASS]Email set successfully.
+[PASS]Password set successfully.
+[PASS]Login button clicked successfully.
